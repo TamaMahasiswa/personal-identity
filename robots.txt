@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teukuaryansyahpratama.vercel.app/sitemap.xml
